@@ -1,6 +1,6 @@
 ---
-title: "Nick Strayer's CV"
-author: Nick Strayer
+title: "Fabio Favoretto's CV"
+author: Fabio Favoretto
 date: "`r Sys.Date()`"
 output:
   pagedown::html_resume:
@@ -48,7 +48,7 @@ Aside
 ================================================================================
 
 
-![logo](beta_dist.png){width=100%}
+![logo](cv-pic.jpg){width=100%}
 
 ```{r}
 # When in export mode the little dots are unaligned, so fix that. 
@@ -63,32 +63,24 @@ Contact {#contact}
 --------------------------------------------------------------------------------
 
 
-- <i class="fa fa-envelope"></i> nick.strayer@gmail.com
-- <i class="fa fa-twitter"></i> NicholasStrayer
-- <i class="fa fa-github"></i> github.com/nstrayer
-- <i class="fa fa-link"></i> [nickstrayer.me](http://nickstrayer.me/)
-- <i class="fa fa-phone"></i> (734) 645-0110
+- <i class="fa fa-envelope"></i> favoretto.fabio@gmail.com
+- <i class="fa fa-twitter"></i> FabioFavoretto
+- <i class="fa fa-github"></i> github.com/fabbiologia
+- <i class="fa fa-link"></i> [lab-website](https://seaecolab.netlify.com/)
+- <i class="fa fa-phone"></i> +59 (612) 868-8438
 
 
 
-Skills {#skills}
+Coding Skills {#skills}
 --------------------------------------------------------------------------------
 
 
-Highly experienced in
-
+Experienced in
 
 - R 
+- C
 - Python
 - Javascript
-
-Experience with
-
-
-- Bash
-- SQL
-- C++
-- AWK
 
 
 Disclaimer {#disclaimer}
@@ -96,7 +88,7 @@ Disclaimer {#disclaimer}
 
 Made with the R package [**pagedown**](https://github.com/rstudio/pagedown). 
 
-The source code is available at [github.com/nstrayer/cv](https://github.com/nstrayer/cv).
+The source code is available at [github.com/fabbiologia/cv](https://github.com/fabbiologia/cv).
 
 Last updated on `r Sys.Date()`.
 
@@ -105,14 +97,14 @@ Last updated on `r Sys.Date()`.
 Main
 ================================================================================
 
-Nick Strayer {#title}
+Fabio Favoretto {#title}
 --------------------------------------------------------------------------------
 
 
 ```{r}
-intro_text <- "I have made [visualizations viewed by hundreds of thousands of people](https://www.nytimes.com/interactive/2016/08/26/us/college-student-migration.html), [sped up query times for 25 terabytes of data by an average of 4,800 times](https://livefreeordichotomize.com/2019/06/04/using_awk_and_r_to_parse_25tb/), and built [packages for R](https://github.com/nstrayer/shinysense) that let you [do magic](http://nickstrayer.me/dataDayTexas/).
+intro_text <- "I am a marine ecologist with experience in remote sensing to study habitats and biodiversity to understand their patterns in space and time.
 
-Currently searching for a data science position that allows me to build tools using visualization and machine learning to help people explore and understand their data. 
+Currently searching for a data science position that allows me to build tools using visualization and remote sensing. 
 "
 
 cat(sanitize_links(intro_text))
@@ -138,20 +130,6 @@ print_section(position_data, 'research_positions')
 
 
 
-Industry Experience {data-icon=suitcase}
---------------------------------------------------------------------------------
-
-::: aside
-I have worked in a variety of roles ranging from journalist to software engineer to data scientist. I like collaborative environments where I can learn from my peers. 
-:::
-
-```{r}
-print_section(position_data, 'industry_positions')
-```
-
-<br>
-<br>
-<br>
 
 Teaching Experience {data-icon=chalkboard-teacher}
 --------------------------------------------------------------------------------
@@ -165,19 +143,6 @@ print_section(position_data, 'teaching_positions')
 ```
 
 
-Selected Data Science Writing {data-icon=chart-line}
---------------------------------------------------------------------------------
-
-
-::: aside
-I regularly blog about data science and visualization on my blog [LiveFreeOrDichotomize.](https://livefreeordichotomize.com/)
-:::
-
-```{r}
-print_section(position_data, 'data_science_writings')
-```
-
-
 
 Selected Press (About)  {data-icon=newspaper}
 --------------------------------------------------------------------------------
@@ -185,17 +150,6 @@ Selected Press (About)  {data-icon=newspaper}
 ```{r}
 print_section(position_data, 'about_me_press')
 ```
-
-
-
-Selected Press (By)  {data-icon=newspaper}
---------------------------------------------------------------------------------
-
-```{r}
-print_section(position_data, 'by_me_press')
-```
-
-
 
 
 Selected Publications, Posters, and Talks {data-icon=book}
