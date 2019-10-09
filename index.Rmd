@@ -19,7 +19,7 @@ library(glue)
 library(tidyverse)
 
 # Set this to true to have links turned into footnotes at the end of the document
-PDF_EXPORT <- FALSE
+PDF_EXPORT <- TRUE
 
 # Holds all the links that were inserted for placement at the end
 links <- c()
@@ -74,9 +74,6 @@ Contact {#contact}
 Coding Skills {#skills}
 --------------------------------------------------------------------------------
 
-
-Experienced in
-
 - R 
 - C
 - Python
@@ -128,6 +125,12 @@ Research Experience {data-icon=laptop}
 print_section(position_data, 'research_positions')
 ```
 
+Work Experience {data-icon=laptop}
+--------------------------------------------------------------------------------
+
+```{r}
+print_section(position_data, 'work_positions')
+```
 
 
 
@@ -159,6 +162,12 @@ Selected Publications, Posters, and Talks {data-icon=book}
 print_section(position_data, 'academic_articles')
 ```
 
+Grants and awards {data-icon=money}
+--------------------------------------------------------------------------------
+
+```{r}
+print_section(position_data, 'grants')
+```
 
 
 ```{r}
