@@ -80,15 +80,10 @@ Coding Skills {#skills}
 - Javascript
 
 
-Disclaimer {#disclaimer}
+Open Source Contributions {#open-source}
 --------------------------------------------------------------------------------
 
-Made with the R package [**pagedown**](https://github.com/rstudio/pagedown). 
-
-The source code is available at [github.com/fabbiologia/cv](https://github.com/fabbiologia/cv).
-
-Last updated on `r Sys.Date()`.
-
+- [shiny dashboard for the blue-paper 10](https://seaecolab.shinyapps.io/Blue-Paper-10_dashboard/)
 
 
 Main
@@ -99,9 +94,9 @@ Fabio Favoretto {#title}
 
 
 ```{r}
-intro_text <- "I am a marine ecologist with experience in remote sensing to study habitats and biodiversity to understand their patterns in space and time.
+intro_text <- "I am a marine ecologist with experience in remote sensing. I am interested in studing marine habitats and biodiversity to understand their patterns in space and time to aid conservation efforts.
 
-Currently searching for a data science position that allows me to build tools using visualization and remote sensing. 
+Currently searching for a data science position that allows me to build remote sensing algorithms and ecological models with tools for visualization and interactivity that can be understood by a non technical audience
 "
 
 cat(sanitize_links(intro_text))
@@ -136,21 +131,8 @@ print_section(position_data, 'work_positions')
 Teaching Experience {data-icon=chalkboard-teacher}
 --------------------------------------------------------------------------------
 
-::: aside
-I am passionate about education. I believe that no topic is too complex if the teacher is empathetic and willing to think about new methods of approaching task. 
-:::
-
 ```{r}
 print_section(position_data, 'teaching_positions')
-```
-
-
-
-Selected Press (About)  {data-icon=newspaper}
---------------------------------------------------------------------------------
-
-```{r}
-print_section(position_data, 'about_me_press')
 ```
 
 
@@ -169,21 +151,39 @@ print_section(position_data, 'grants')
 ```
 
 
-Grants and awards {data-icon=money}
+Computer skills {data-icon=laptop}
 --------------------------------------------------------------------------------
 
 ```{r}
-print_section(position_data, 'grants')
+intro_text <- "
+- Windows, Mac, Linux os;
+- Expert command of Microsoft Office tools;
+- R-programming;
+- Java-script; 
+- Google Earth Engine; 
+- C-programming
+- SIG softares (Arcgis, Qgis, GrassGIS);
+
+"
+
+cat(sanitize_links(intro_text))
 ```
 
 
 
-Additional training and certifications {data-icon=money}
+
+
+Disclaimer {#disclaimer}
 --------------------------------------------------------------------------------
 
-```{r}
-print_section(position_data, 'add_training')
-```
+Made with the R package [**pagedown**](https://github.com/rstudio/pagedown). 
+
+The source code is available at [github.com/fabbiologia/cv](https://github.com/fabbiologia/cv).
+
+Last updated on `r Sys.Date()`.
+
+:::
+
 
 
 

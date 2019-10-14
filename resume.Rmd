@@ -97,9 +97,9 @@ Fabio Favoretto {#title}
 --------------------------------------------------------------------------------
 
 ```{r}
-intro_text <- "I am a marine ecologist with experience in remote sensing to study habitats and biodiversity to understand their patterns in space and time.
+intro_text <- "I am a marine ecologist with experience in remote sensing. I am interested in studing marine habitats and biodiversity to understand their patterns in space and time to aid conservation efforts.
 
-Currently searching for a data science position that allows me to build tools for visualization and remote sensing. 
+Currently searching for a data science position that allows me to build remote sensing algorithms and ecological models with tools for visualization and interactivity that can be understood by a non technical audience
 "
 
 
