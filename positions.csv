@@ -1,10 +1,10 @@
 section,in_resume,title,loc,institution,start,end,description_1,description_2,description_3
-education,TRUE,"PhD. Candidate, Biostatistics",Autonomous University of Baja California Sur,"La Paz, Mexico",2016,today,Thesis: Remote Sensing Applications in Seascape Ecology,NA,NA
-education,TRUE,Master degree in Marine Biology,University of Trieste,"Trieste, Italy",2011,2014,Thesis: Plancton diversity and distribution patterns in the Ionian Sea,NA,NA
-education,TRUE,B.S. Environmental Sciences,University of Trieste,"Trieste, Italy",2009,2011,Thesis: Water isotops compositions of the Gulf of Trieste,NA,NA
-research_positions,TRUE,Independent Contractor,Scripps institution of Oceanography - Gulf of California Marine Program,"San Diego, USA",2018,2019,"Database creation, data visualization, reporting. Independently constructed a socioecological model for world mangroves",NA,NA
-research_positions,TRUE,Research Assistant,Marine Botany Laboratory,"Autonomous University of Baja California Sur, Mexico",2015,2016,"Handling and analising taxonomic databases, field coordinator and data analisis",NA,NA
-research_positions,TRUE,Research Assistant,Macroalgae Ecofisiology Laboratory,"University of Trieste, Italy",2015,2015,Analising data from seaweeds and seagrasses to construct niche modelling and health indexes,NA,NA
+education,TRUE,"PhD. Candidate, Marine ecology",Autonomous University of Baja California Sur,"La Paz, Mexico",2016,today,Thesis: Remote Sensing Applications in Seascape Ecology,NA,NA
+education,TRUE,Master degree in Marine biology,University of Trieste,"Trieste, Italy",2011,2014,Thesis: Plancton diversity and distribution patterns in the Ionian Sea,NA,NA
+education,TRUE,B.S. Environmental sciences,University of Trieste,"Trieste, Italy",2009,2011,Thesis: Water isotops compositions of the Gulf of Trieste,NA,NA
+research_positions,TRUE,Independent contractor,Scripps institution of Oceanography - Gulf of California Marine Program,"San Diego, USA",2018,2019,"Database creation, data visualization, reporting. Independently constructed a socioecological model for world mangroves",NA,NA
+research_positions,TRUE,Research assistant,Marine Botany Laboratory,"Autonomous University of Baja California Sur, Mexico",2015,2016,"Handling and analising taxonomic databases, field coordinator and data analisis",NA,NA
+research_positions,TRUE,Research assistant,Macroalgae Ecofisiology Laboratory,"University of Trieste, Italy",2015,2015,Analising data from seaweeds and seagrasses to construct niche modelling and health indexes,NA,NA
 work_positions,FALSE,Teaching staff and WWF operator,Marine Protected Area of Miramare ,"Trieste, Italy",2012,2015,Responsible for aquariums and monitoring of key organisms (Pinna nobilis and Madrepora spp); Teached and worked as scuba guide for visiting schools,NA,NA
 work_positions,FALSE,Scientific advisor and technical office member ,Consorzio Elbano Diving (CED) ,"Elba Island, Italy",2011,2012,Scientific advisor for a conservation project in Elba Island: http://www.elbaced.it,NA,NA
 work_positions,FALSE,Divemaster PADI ,Talas Diving Center,"Elba Island, Italy",2007,2012,"Assisting instructors on courses, guiding novice and pro levels divers, scubadiving equipment maintenance",NA,NA
@@ -22,3 +22,12 @@ grants,FALSE,University Grant: Universidad Autónoma de Baja California Sur (UABC
 grants,FALSE,Idea Wild,,"$1,500 ",2018,2019,Awarded for my research on Remote Sensing,NA,NA
 grants,FALSE,"CONANP- Comision Nacional Areas Naturales Protegidas, Mexico",,"$18,000 ",2018,2019,Awarded for my research on Remote Sensing,NA,NA
 grants,FALSE,Best student,International school for scientific diving,,,,,,
+computer,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+add_training,FALSE,Net-cet training course in Management and manipulation of cetaceans and sea turtles,University of Padova,"Trieste, Italy",2013,2013,,,
+add_training,FALSE,Aquarium management course,University of Trieste,"Trieste, Italy",2009,2009,,,
+add_training,FALSE,Scientific diver course,International school for scientific diving,"Elba Island, Italy",2009,2009,,,
+add_training,FALSE,Diving operator,Italian Civil Protection,"Elba Island, Italy",2007,2007,,,
