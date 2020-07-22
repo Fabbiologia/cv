@@ -1,5 +1,5 @@
 section,in_resume,title,loc,institution,start,end,description_1,description_2,description_3
-education,TRUE,"PhD. Candidate, Marine ecology",Autonomous University of Baja California Sur,"La Paz, Mexico",2016,today,Thesis: Remote Sensing Applications in Seascape Ecology,NA,NA
+education,TRUE,"PhD, Marine ecology",Autonomous University of Baja California Sur,"La Paz, Mexico",2016,2020,Thesis: Remote Sensing Applications in Seascape Ecology,NA,NA
 education,TRUE,Master degree in Marine biology,University of Trieste,"Trieste, Italy",2011,2014,Thesis: Plancton diversity and distribution patterns in the Ionian Sea,NA,NA
 education,TRUE,B.S. Environmental sciences,University of Trieste,"Trieste, Italy",2009,2011,Thesis: Water isotops compositions of the Gulf of Trieste,NA,NA
 research_positions,TRUE,Independent contractor,Scripps institution of Oceanography - Gulf of California Marine Program,"San Diego, USA",2018,2019,"Database creation, data visualization, reporting. Independently constructed a socioecological model for world mangroves",NA,NA
@@ -16,7 +16,7 @@ about_me_press,TRUE,[Zihuatanejo Reefs project](https://novedadesaca.mx/mejorar-
 about_me_press,TRUE,[Seascape ecology](http://www.conacytprensa.mx/index.php/ciencia/ambiente/18348-paisajes-marinos-golfo-california),,,2018,2018,NA,NA,NA
 academic_articles,TRUE,[Testing of the 4SM Method in the Gulf of California Suggests Field Data Are not Needed to Derive Satellite Bathymetry](https://www.mdpi.com/1424-8220/17/10/2248),Sensors,N/A,2017,2017,"Authored with Morel, Y., Waddington, A., Lopez-Calderon, J., Cadena-Roa, M., & Blanco-Jarvio, A. ",NA,NA
 academic_articles,TRUE,[4SM: A Novel Self-Calibrated Algebraic Ratio Method for Satellite-Derived Bathymetry and Water Column Correction](https://www.mdpi.com/1424-8220/17/7/1682),Sensors,N/A,2017,2017,"Authored with Morel, Y.",NA,NA
-academic_articles,TRUE,[blue-paper-10-habitats](https://seaecolab.shinyapps.io/Blue-Paper-10_dashboard/),,,,,,,
+academic_articles,TRUE,"[Critical Habitats and Biodiversity: Inventory, Thresholds and Governance](https://oceanpanel.org/blue-papers/critical-habitats-and-biodiversity-inventory-thresholds-and-governance)",,N/A,2020,2020,"Authored with Alex D. Rogers, Octavio Aburto-Oropeza et al.,",,
 grants,FALSE,Silva Grant International Phycological Society,,$500 ,2016,2017,Grant awarded for my reasearch on coralline algae,NA,NA
 grants,FALSE,University Grant: Universidad Autónoma de Baja California Sur (UABCS),,"$5,000 ",2017,2019,Awarded for my research on Remote Sensing,NA,NA
 grants,FALSE,Idea Wild,,"$1,500 ",2018,2019,Awarded for my research on Remote Sensing,NA,NA
